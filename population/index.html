@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset=utf-8 />
+	<title>Web Page Template</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css" />
+	<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+
+	<style>
+		body {
+			margin: 10;
+			padding: 10;
+			background: #f5f5f5;
+			font-family: "Noto Sans", sans-serif;
+			color: #3d3d3d;
+		}
+
+		section {
+			/*width: 960px;*/
+			width: 80%;
+			margin: 20px auto;
+		}
+		/* Add outside space in the following order:
+margin: top right bottom left; */
+
+/* Provides 10px around all sides */
+margin: 10px 10px 10px 10px;
+
+/* This is equivalent to the above rule */
+margin: 10px;
+
+/* 20px space on top and bottom sides and 10px on left and right sides */
+margin: 20px 10px;
+
+/* 20px space on top and bottom sides
+but the space on the left and right sides are evenly filled automatically, which centers the element. */
+margin: 20px auto;
+
+		h1 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		h2 {
+			font-family: Lora, serif;
+			letter-spacing: .04em;
+		}
+
+		p {
+			font-size: 1em;
+			line-height: 1.5em;
+		}
+
+		a {
+			color: #005daa;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		ul {
+			padding-left: 20px;
+		}
+
+		li {
+			margin: 10px 0
+		}
+
+		#map {
+			width: 100%;
+			margin: 10px auto;
+			border: 2px solid #d3d3d3;
+		}
+
+		.max-width-img {
+	width:100%;
+		}
+
+	</style>
+</head>
+
+<body>
+
+	<section>
+
+		<!-- This is an HTML comment. Find the comments below and follow the instructions. -->
+
+		<h1>Population of Kentucky per Sq. Mile by County (2000)</h1>
+
+		<div id='map'>
+				<img src="kypop_1200px.png" alt="Map of Kentucky Population by County" class="max-width-img">
+				<br> <!-- line break tag -->
+				<a href="kypop_8000px.png">Link to high resolution map</a>
+		</div>
+
+		<!-- Add you information below -->
+		<h2>Authored by: Darion</h2>
+		<p>This map was created using population estimate and county polygon data for the year 2000 provided by Kentucky Geological Survey (http://www.uky.edu/KGS/gis/bounds.html) and bluegrass county region data provided by U.S. Department of Commerce, U.S. Census Bureau, Geography Division, TIGER/Line Shapefile (https://www.census.gov/geo/maps-data/data/tiger-data.html). Map was produced with QGIS 2.18.16 software on Ubuntu 16.04. All of the datasets were referenced to the NAD83 EPSG:3089 CRS. (1:1,000,000)</p>
+		<p> The purpose of this thematic map is to illustrate the patterns of Kentucky population density by county and their general spatial relationship to the bluegrass region.</p>
+		<ul>
+			<li>See my projects on GitHub: <a href="https://github.com/howler95">UKy GEO 409 Mapping Projects</a></li>
+			<li>Follow me on twitter, instagram, etc.: <a href="https://twitter.com/darioncarden">@darioncarden</a></li>
+		</ul>
+		<p> Contact Information: darioncarden@gmail.com</p>
+	</section>
+
+</body>
+
+</html>
