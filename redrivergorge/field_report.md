@@ -2,4 +2,4 @@ The trail data that I had acquired for red river gorge turned out not to be enti
 
 For the field mapping portion, I took note of points of interest (poi). These include scenic views and campsites and an otter home I found along a bank of the red.  The swimming file simply denotes two very popular swimmming holes/fishing/kayaking/social areas I found along the red. I also made a trail note file that describes certain stretches of trail that I found were more strenuous or otherwise noteworthy. Atop the courthouse rock trail, there was a section of very sandy ridgeline trail. Also steep portions were noted, as were extremely muddy portions.
 
-A majority of the images I took lie outside the basemap area in the swift camp creek region while studying incised meanders.
+A majority of the images I took lie along the Red River near the Suspension Bridge. These images were taken in conjunction with a study to test sediment storage in bank deposits. 
