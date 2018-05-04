@@ -1,0 +1,5 @@
+The trail data that I had acquired for red river gorge turned out not to be entirely accurate, especially following switchbacks and heavily wooded winding trail areas. The trail shp.file also clearly parallels ridgeline portions of trail along the courthouse rock trail indicating a significant inaccuracy there. The OSM trail data turned out to be much more reliable and detailed for the given area.
+
+For the field mapping portion, I took note of points of interest (poi). These include scenic views and campsites and an otter home I found along a bank of the red.  The swimming file simply denotes two very popular swimmming holes/fishing/kayaking/social areas I found along the red. I also made a trail note file that describes certain stretches of trail that I found were more strenuous or otherwise noteworthy. Atop the courthouse rock trail, there was a section of very sandy ridgeline trail. Also steep portions were noted, as were extremely muddy portions.
+
+A majority of the images I took lie outside the basemap area in the swift camp creek region while studying incised meanders.

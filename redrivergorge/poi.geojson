@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "poi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "POI": "ridgeline view" }, "geometry": { "type": "Point", "coordinates": [ -83.634703, 37.809706 ] } },
+{ "type": "Feature", "properties": { "id": 2, "POI": "ridgeline view" }, "geometry": { "type": "Point", "coordinates": [ -83.649184, 37.814638 ] } },
+{ "type": "Feature", "properties": { "id": 3, "POI": "campsite" }, "geometry": { "type": "Point", "coordinates": [ -83.617774, 37.819639 ] } },
+{ "type": "Feature", "properties": { "id": 4, "POI": "ridgeline campsite" }, "geometry": { "type": "Point", "coordinates": [ -83.634599, 37.81051 ] } },
+{ "type": "Feature", "properties": { "id": 5, "POI": "otters" }, "geometry": { "type": "Point", "coordinates": [ -83.630541, 37.825516 ] } },
+{ "type": "Feature", "properties": { "id": 6, "POI": "suspension bridge" }, "geometry": { "type": "Point", "coordinates": [ -83.624464, 37.826897 ] } },
+{ "type": "Feature", "properties": { "id": 7, "POI": "lunch spot" }, "geometry": { "type": "Point", "coordinates": [ -83.677612, 37.840976 ] } },
+{ "type": "Feature", "properties": { "id": 8, "POI": "scenic view" }, "geometry": { "type": "Point", "coordinates": [ -83.67735, 37.838265 ] } }
+]
+}
